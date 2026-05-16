@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigating App</string>
+    <string name="upload_pdf">Upload georeferenced PDF</string>
+    <string name="no_pdf_loaded">No PDF loaded yet.</string>
+    <string name="loaded_file_name">Loaded: %1$s</string>
+    <string name="start_gps">Enable local GPS</string>
+    <string name="location_waiting">Location: waiting for GPS fix…</string>
+    <string name="location_template">Lat: %1$.6f, Lon: %2$.6f, ±%3$.1fm</string>
+    <string name="pdf_preview">PDF preview</string>
+    <string name="location_permission_denied">Location permission denied.</string>
+    <string name="enable_location_services">Enable GPS or network location in device settings.</string>
+    <string name="location_updates_started">Location updates started with %1$s.</string>
+</resources>
