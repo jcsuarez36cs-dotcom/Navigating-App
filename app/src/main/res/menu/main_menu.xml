@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_export_shp"
+        android:title="Export Shapefile"
+        app:showAsAction="never"/>
+    <item android:id="@+id/menu_export_kmz"
+        android:title="Export KMZ"
+        app:showAsAction="never"/>
+    <item android:id="@+id/menu_export_gpx"
+        android:title="Export GPX"
+        app:showAsAction="never"/>
+    <item android:id="@+id/menu_clear_navigation"
+        android:title="Clear Navigation"
+        app:showAsAction="never"/>
+</menu>
